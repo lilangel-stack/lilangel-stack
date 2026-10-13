@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Angel Florez<br><br>### Software Developer | Systems Engineering Student | Aspiring Full Stack Developer<br><br>I'm a Systems Engineering student from Colombia passionate about building software solutions, solving problems, and continuously learning new technologies.<br><br>I'm currently focused on **Full Stack Development**, strengthening my skills in backend development, databases, and software architecture while exploring the possibilities of Artificial Intelligence.<br><br>### 🚀 About Me<br><br>- 🎓 Studying Systems Engineering.<br>- 💻 Interested in Full Stack Development and software engineering.<br>- 🌱 Continuously learning and building projects to improve my skills.<br>- 🧠 Interested in Artificial Intelligence, cloud computing, and scalable applications.<br>- 🛠️ Focused on writing clean, maintainable, and efficient code.<br>- 🎯 Working toward becoming a well-rounded software engineer.<br><br>### 💻 Technologies & Tools<br><br>**Languages**<br>- JavaScript<br>- TypeScript<br>- C++<br><br>**Frontend Development**<br>- HTML5<br>- CSS3<br>- React<br>- Angular<br><br>**Backend Development**<br>- Node.js<br>- Express.js<br>- REST APIs<br><br>**Databases**<br>- SQL<br>- PostgreSQL<br>- SQLite<br><br>**Tools & Workflow**<br>- Git & GitHub<br>- Docker<br>- Visual Studio Code<br><br>### 📌 What I'm Working On<br><br>- Building practical projects to strengthen my development skills.<br>- Improving my knowledge of backend development and database design.<br>- Learning software engineering best practices and application architecture.<br>- Exploring DevOps, cloud technologies, and AI.<br><br>### 🤝 Let's Connect<br><br>I'm always open to learning from other developers, collaborating on interesting projects, and connecting with people in the tech community.<br><br>📍 Colombia<br><br>---<br><br>⭐ *Always learning. Always building. Always improving.*<br>
 
-<!--
-**lilangel-stack/lilangel-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lilangel-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=lilangel-stack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lilangel-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=lilangel-stack&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
