@@ -1,5 +1,35 @@
 
-# 👋 Hi, I'm Angel Florez<br><br>### Software Developer | Systems Engineering Student | Aspiring Full Stack Developer<br><br>I'm a Systems Engineering student from Colombia passionate about building software solutions, solving problems, and continuously learning new technologies.<br><br>I'm currently focused on **Full Stack Development**, strengthening my skills in backend development, databases, and software architecture while exploring the possibilities of Artificial Intelligence.<br><br>### 🚀 About Me<br><br>- 🎓 Studying Systems Engineering.<br>- 💻 Interested in Full Stack Development and software engineering.<br>- 🌱 Continuously learning and building projects to improve my skills.<br>- 🧠 Interested in Artificial Intelligence, cloud computing, and scalable applications.<br>- 🛠️ Focused on writing clean, maintainable, and efficient code.<br>- 🎯 Working toward becoming a well-rounded software engineer.<br><br>###  📌 What I'm Working On<br><br>- Building practical projects to strengthen my development skills.<br>- Improving my knowledge of backend development and database design.<br>- Learning software engineering best practices and application architecture.<br>- Exploring DevOps, cloud technologies, and AI.<br><br>###📍 Colombia<br><br>---<br><br>⭐ *Always learning. Always building. Always improving.*<br>
+# 👋 Hi, I'm Angel Florez
+
+### Software Developer | Systems Engineering Student | Aspiring Full Stack Developer
+
+I'm a Systems Engineering student from Colombia passionate about building software solutions, solving problems, and continuously learning new technologies.
+
+I'm currently focused on Full Stack Development, strengthening my skills in backend development, databases, and software architecture while exploring the possibilities of Artificial Intelligence.
+
+### 🚀 About Me
+
+- 🎓 Studying Systems Engineering.
+- 💻 Interested in Full Stack Development and software engineering.
+- 🌱 Continuously learning and building projects to improve my skills.
+- 🧠 Interested in Artificial Intelligence, cloud computing, and scalable applications.
+- 🛠️ Focused on writing clean, maintainable, and efficient code.
+- 🎯 Working toward becoming a well-rounded software engineer.
+
+### 📌 What I'm Working On
+
+- Building practical projects to strengthen my development skills.
+- Improving my knowledge of backend development and database design.
+- Learning software engineering best practices and application architecture.
+- Exploring DevOps, cloud technologies, and AI.
+
+### 📍 Colombia
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
+
+
 
 
 # 💻 Tech Stack:
