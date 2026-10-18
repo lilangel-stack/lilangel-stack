@@ -16,12 +16,7 @@ I'm currently focused on Full Stack Development, strengthening my skills in back
 - 🛠️ Focused on writing clean, maintainable, and efficient code.
 - 🎯 Working toward becoming a well-rounded software engineer.
 
-### 📌 What I'm Working On
 
-- Building practical projects to strengthen my development skills.
-- Improving my knowledge of backend development and database design.
-- Learning software engineering best practices and application architecture.
-- Exploring DevOps, cloud technologies, and AI.
 
 ### 📍 Colombia
 
