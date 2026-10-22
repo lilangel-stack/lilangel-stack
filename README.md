@@ -22,7 +22,6 @@ I'm currently focused on Full Stack Development, strengthening my skills in back
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
 
 
 
