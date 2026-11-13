@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Angel Florez
+# 👋 I'm Angel Florez
 
 ### Software Developer | Systems Engineering Student | Aspiring Full Stack Developer
 
